@@ -1,6 +1,7 @@
 ---
 settings:
   name: AFF and FAS Family
+  search: ontap-systems,ontap-systems-upgrade,ontap-systems-switches,ontap-metrocluster
   internal:
     pdf_enabled: false
   prod:
@@ -12,7 +13,6 @@ sidebar:
   - title: Documentación de AFF y FAS
     url: "/index.html"
 product-family:
-  search: clouddocs-ontap-systems_main-prod,clouddocs-ontap-systems-upgrade_main-prod,clouddocs-ontap-systems-switches_main-prod,clouddocs-ontap-metrocluster_main-prod
   sidebarlinks:
   - title: Todo
     tags: tag_storage_management,tag_storage_upgrade,tag_storage_hardware,tag_get_started
@@ -51,10 +51,3 @@ product-family:
     summary: Instale, actualice o amplíe sus configuraciones de MetroCluster y realice
       la recuperación ante desastres.
     tags: all, tag_storage_upgrade
-  - title: Documentación de ONTAP
-    icon: "./media/family.png"
-    url: https://docs.netapp.com/us-en/ontap-family/index.html
-    summary: Use la documentación de ONTAP para encontrar información sobre cómo configurar
-      ONTAP, aprovisionar almacenamiento para clientes y proteger y gestionar sus
-      datos con System Manager o la CLI.
-    tags: all, tag_storage_management
