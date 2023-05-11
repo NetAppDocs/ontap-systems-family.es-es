@@ -34,7 +34,7 @@ Los sistemas de flash híbrido FAS son una plataforma de hardware creada para en
 
 Con su hardware de alta disponibilidad, los sistemas flash híbrido FAS satisfacen de forma rentable las demandas de las cargas de trabajo mediante la combinación ideal de unidades flash y de disco giratorio tradicionales. Es perfecto para backup y retención, consolidación de aplicaciones empresariales de uso general y contenido distribuido.
 
-https://["Lea las especificaciones técnicas de FAS"^]
+962fcdf0e3f30c90386f558dada69895
 
 
 
