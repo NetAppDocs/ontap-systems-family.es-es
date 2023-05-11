@@ -25,13 +25,10 @@
   <block id="3c6f546d42200583dd3ef64c44a12306" category="section-title">Sistemas All Flash FAS (AFF)</block>
   <block id="223ef00238c9b7a5c70952ac89019615" category="paragraph">Los sistemas AFF basados en NVMe son una plataforma robusta de escalado horizontal creada para entornos virtualizados y se pueden poner en marcha como un sistema independiente o como un nivel de alto rendimiento en una configuración ONTAP de NetApp.</block>
   <block id="8977f307824a451c0aee8f74c26d4135" category="paragraph">Las configuraciones FAS All-Flash dan soporte a una amplia gama de cargas de trabajo, especialmente VDI y bases de datos que requieren un alto rendimiento, una baja latencia y fiabilidad.</block>
-  <block id="8b8f0b3a15c5a759df893ab159a9dd8e" category="inline-link">Lea las especificaciones técnicas de AFF</block>
-  <block id="edea91522f14fdffcc980d8465add3b1" category="paragraph"><block ref="ea1915011593f20bb5a7853a6a5bb1eb" category="inline-link-rx"></block>.</block>
   <block id="2d69532c2bc4914b794c51462df97ff8" category="section-title">Sistemas híbridos con flash FAS</block>
   <block id="5ab178f682531bfb5e673ff1b9e3d1f4" category="paragraph">Los sistemas de flash híbrido FAS son una plataforma de hardware creada para entornos SAN y NAS compartidos y consolidados que requieren la gestión de datos enriquecidos y fácil conexión al cloud.</block>
   <block id="6ba8a0dc29ca1ad626a611908a5cf95f" category="paragraph">Con su hardware de alta disponibilidad, los sistemas flash híbrido FAS satisfacen de forma rentable las demandas de las cargas de trabajo mediante la combinación ideal de unidades flash y de disco giratorio tradicionales. Es perfecto para backup y retención, consolidación de aplicaciones empresariales de uso general y contenido distribuido.</block>
   <block id="97685b4942693fb4c77d8b4efbd3f75d" category="inline-link">Lea las especificaciones técnicas de FAS</block>
-  <block id="962fcdf0e3f30c90386f558dada69895" category="paragraph"><block ref="962fcdf0e3f30c90386f558dada69895" category="inline-link-rx"></block></block>
   <block id="1749d12df3df2319d3eee218a277ff83" category="section-title">MetroCluster</block>
   <block id="d8da382e26478f0bc6e18592fafd00ee" category="paragraph">Los sistemas de almacenamiento AFF y FAS configurados con la funcionalidad MetroCluster de ONTAP proporcionan una solución que combina el clustering basado en cabinas con la replicación síncrona para ofrecer una disponibilidad continua y cero pérdida de datos. La configuración de MetroCluster duplica de forma inmediata todos los datos de misión crítica transacción por transacción, con lo que proporciona acceso ininterrumpido a las aplicaciones y los datos.</block>
   <block id="e0a6bc6b2de7e7984c7936f947f3eb21" category="paragraph">A diferencia de las soluciones de replicación de datos convencionales, MetroCluster funciona sin problemas con el entorno del host para ofrecer disponibilidad de datos continua y eliminar, al mismo tiempo, la necesidad de crear y mantener scripts complejos de conmutación al nodo de respaldo.</block>
@@ -64,6 +61,8 @@
   <block id="d5b36810f407899aa4d760770797c7eb" category="sidebar">Instale, actualice y mantenga el clúster y los switches de almacenamiento.</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="32a7a83439c989b80eeca364a3b4149c" category="sidebar">Instale, actualice o amplíe sus configuraciones de MetroCluster y realice la recuperación ante desastres.</block>
-  <block id="eb75aeb3b4b2b9734ba3e52f5483f0b2" category="sidebar">Documentación de ONTAP</block>
-  <block id="8005bf029d4b2e78ade8d024d73dbce2" category="sidebar">Use la documentación de ONTAP para encontrar información sobre cómo configurar ONTAP, aprovisionar almacenamiento para clientes y proteger y gestionar sus datos con System Manager o la CLI.</block>
+  <block id="89392af5eda25c825021d432ddf93588" category="inline-link">Lea las especificaciones técnicas de AFF A-Series</block>
+  <block id="4ba32667802f0b1a025017cfc6aed8c5" category="inline-link">Lea las especificaciones técnicas de la serie C de AFF</block>
+  <block id="3017e986a1affd8067036e1a51295fdf" category="paragraph"><block ref="56354ddbfd942daf4a7f0a154d6b237e" category="inline-link-rx"></block> y..<block ref="589bc220bfa55a5bb8d6785946afbc2e" category="inline-link-rx"></block>.</block>
+  <block id="fac33d262d5cecdc4766c37ba6f9f935" category="paragraph"><block ref="fac33d262d5cecdc4766c37ba6f9f935" category="inline-link-rx"></block></block>
 </blocks>
