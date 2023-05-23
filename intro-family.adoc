@@ -24,7 +24,7 @@ Los sistemas AFF basados en NVMe son una plataforma robusta de escalado horizont
 
 Las configuraciones FAS All-Flash dan soporte a una amplia gama de cargas de trabajo, especialmente VDI y bases de datos que requieren un alto rendimiento, una baja latencia y fiabilidad.
 
-https://["Lea las especificaciones técnicas de AFF A-Series"^] y.. https://["Lea las especificaciones técnicas de la serie C de AFF"^].
+https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Lea las especificaciones técnicas de AFF A-Series"^] y.. https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Lea las especificaciones técnicas de la serie C de AFF"^].
 
 
 
@@ -34,7 +34,7 @@ Los sistemas de flash híbrido FAS son una plataforma de hardware creada para en
 
 Con su hardware de alta disponibilidad, los sistemas flash híbrido FAS satisfacen de forma rentable las demandas de las cargas de trabajo mediante la combinación ideal de unidades flash y de disco giratorio tradicionales. Es perfecto para backup y retención, consolidación de aplicaciones empresariales de uso general y contenido distribuido.
 
-962fcdf0e3f30c90386f558dada69895
+https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf["Lea las especificaciones técnicas de FAS"^]
 
 
 
@@ -44,7 +44,7 @@ Los sistemas de almacenamiento AFF y FAS configurados con la funcionalidad Metro
 
 A diferencia de las soluciones de replicación de datos convencionales, MetroCluster funciona sin problemas con el entorno del host para ofrecer disponibilidad de datos continua y eliminar, al mismo tiempo, la necesidad de crear y mantener scripts complejos de conmutación al nodo de respaldo.
 
-https://["Más información acerca de MetroCluster"^]
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["Más información acerca de MetroCluster"^]
 
 
 
@@ -52,13 +52,13 @@ https://["Más información acerca de MetroCluster"^]
 
 El software para la gestión de datos ONTAP es el software de almacenamiento en clúster que hace funcionar los sistemas AFF y FAS. Con un espacio de nombres global que admite hasta 24 nodos AFF y FAS de todo tipo, el software ONTAP admite almacenamiento unificado (bloques y archivos), lo que permite una importante consolidación de la carga de trabajo que se puede gestionar mediante la interfaz gráfica de usuario de System Manager de ONTAP.
 
-https://["Lea las especificaciones técnicas de ONTAP"^].
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Lea las especificaciones técnicas de ONTAP"^].
 
 
 
 == Si quiere más información
 
-* https://["Documentos de AFF y FAS"^]
-* https://["Documentos de MetroCluster"^]
-* https://["Documentos de ONTAP"^]
+* https://docs.netapp.com/us-en/ontap-systems/index.html["Documentos de AFF y FAS"^]
+* https://docs.netapp.com/us-en/ontap-metrocluster/index.html["Documentos de MetroCluster"^]
+* https://docs.netapp.com/us-en/ontap/index.html["Documentos de ONTAP"^]
 
