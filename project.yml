@@ -10,7 +10,7 @@ settings:
   langs: es-es,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,fr-fr,it-it
 sidebar:
   entries:
-  - title: Documentación de AFF y FAS
+  - title: Documentación de los sistemas de hardware de ONTAP
     url: "/index.html"
 product-family:
   sidebarlinks:
@@ -24,21 +24,20 @@ product-family:
   - title: Actualización del sistema
     tags: tag_storage_upgrade
   tiles:
-  - title: Obtenga más información sobre AFF y FAS
+  - title: Obtenga información sobre los sistemas de hardware de ONTAP
     icon: "./media/family.png"
     url: intro-family.html
-    summary: Obtenga más información sobre la familia de sistemas de almacenamiento
-      AFF y FAS.
+    summary: Obtenga información sobre los sistemas de hardware de ONTAP.
     tags: all, tag_get_started
-  - title: Instalación y mantenimiento de AFF y FAS
+  - title: Instalar y mantener
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/ontap-systems/index.html
-    summary: Instalar y mantener sus sistemas de cabina AFF, FAS o All SAN.
+    summary: Instalar y mantener sus sistemas de hardware ONTAP.
     tags: all, tag_storage_hardware
-  - title: Actualización de AFF y FAS
+  - title: Renovar
     icon: "./media/upgrade.png"
     url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
-    summary: Actualice sus sistemas de almacenamiento AFF y FAS.
+    summary: Actualice sus sistemas de hardware de ONTAP.
     tags: all, tag_storage_upgrade
   - title: Switches de clúster y almacenamiento
     icon: "./media/switch.png"
