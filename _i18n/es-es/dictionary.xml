@@ -59,7 +59,6 @@
   <block id="854c844bc4fd6abc91a977f49db56a07" category="paragraph">Los sistemas de hardware ONTAP de NetApp están diseñados para aplicaciones empresariales que necesitan un almacenamiento fácil de gestionar, rápido y seguro con fiabilidad de nivel empresarial y un acceso continuo a los datos.</block>
   <block id="92c71332ca57dee04135a2037db6113d" category="paragraph">Los sistemas de hardware ONTAP de NetApp están disponibles en configuraciones all-flash (AFF) y de flash híbrido y solo HDD (FAS), lo que le ofrece la opción de elegir la combinación de medios de almacenamiento que mejor satisfaga sus requisitos de rendimiento, capacidad y coste.</block>
   <block id="3732021d709f401480670fe0967338ce" category="paragraph">Puede agrupar diferentes combinaciones de modelos para ejecutar cargas de trabajo mixtas en el mismo sistema de almacenamiento y desarrollar su entorno agregando nuevas generaciones de almacenamiento con las tecnologías más recientes.</block>
-  <block id="1bca200f5a2f620714b2ee8b86ec36f2" category="section-title">Sistemas de cabinas All SAN (ASA)</block>
   <block id="172f4b9c0cae1bff93aa1f4793e65421" category="paragraph">La cabina SAN All-Flash (ASA) de NetApp facilita una experiencia SAN simplificada y dedicada que ofrece disponibilidad continua de datos para bases de datos de misión crítica para la empresa y otras cargas de trabajo SAN mediante el protocolo iSCSI o la certificación FCP.</block>
   <block id="aec950ad3eb8e00365bee35dd403ea61" category="inline-link">Lea las especificaciones técnicas de ASA</block>
   <block id="42fa76a7b072e3d32194f9e32ee843c3" category="paragraph"><block ref="42fa76a7b072e3d32194f9e32ee843c3" category="inline-link-rx"></block></block>
@@ -72,4 +71,5 @@
   <block id="345144a7a37c16195cdc0333ceebb0a8" category="sidebar">Instalar y mantener sus sistemas de hardware ONTAP.</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">Renovar</block>
   <block id="273baa0433bc0b2ead69ee760355071e" category="sidebar">Actualice sus sistemas de hardware de ONTAP.</block>
+  <block id="f40344306e48f0136b4a528e6200d2ed" category="section-title">Sistemas de cabinas All Flash SAN (ASA)</block>
 </blocks>

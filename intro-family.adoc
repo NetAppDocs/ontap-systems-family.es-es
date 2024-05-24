@@ -10,6 +10,7 @@ summary: La familia de sistemas de almacenamiento ONTAP de NetApp está diseñad
 :imagesdir: ./media/
 
 
+[role="lead"]
 Los sistemas de hardware ONTAP de NetApp están diseñados para aplicaciones empresariales que necesitan un almacenamiento fácil de gestionar, rápido y seguro con fiabilidad de nivel empresarial y un acceso continuo a los datos.
 
 Los sistemas de hardware ONTAP de NetApp están disponibles en configuraciones all-flash (AFF) y de flash híbrido y solo HDD (FAS), lo que le ofrece la opción de elegir la combinación de medios de almacenamiento que mejor satisfaga sus requisitos de rendimiento, capacidad y coste.
@@ -28,7 +29,7 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Lea l
 
 
 
-== Sistemas de cabinas All SAN (ASA)
+== Sistemas de cabinas All Flash SAN (ASA)
 
 La cabina SAN All-Flash (ASA) de NetApp facilita una experiencia SAN simplificada y dedicada que ofrece disponibilidad continua de datos para bases de datos de misión crítica para la empresa y otras cargas de trabajo SAN mediante el protocolo iSCSI o la certificación FCP.
 
