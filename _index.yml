@@ -25,12 +25,24 @@ product-family:
     url: intro-family.html
     summary: Obtenga información sobre los sistemas de hardware de ONTAP.
     tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
-  - title: Instalar y mantener
+  - title: Sistemas AFF
     icon: "./media/icon-onprem.png"
-    url: "../ontap-systems/index.html"
-    summary: Instalar y mantener sus sistemas de hardware ONTAP.
+    url: "../ontap-systems/aff-landing/index.html"
+    summary: Instale y mantenga sus sistemas AFF.
+  - title: Sistemas ASA
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/allsan-landing/index.html"
+    summary: Instale y mantenga sus sistemas ASA.
+  - title: Sistemas FAS
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/fas/index.html"
+    summary: Instale y mantenga sus sistemas FAS.
+  - title: Sistemas ASA r2
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-systems/asa-r2/index.html"
+    summary: Instale y use sus sistemas R2 de ASA.
     tags: tag_all, tag_storage_hardware
-  - title: Renovar
+  - title: Actualice los sistemas de hardware de ONTAP
     icon: "./media/upgrade.png"
     url: "../ontap-systems-upgrade/index.html"
     summary: Actualice sus sistemas de hardware de ONTAP.

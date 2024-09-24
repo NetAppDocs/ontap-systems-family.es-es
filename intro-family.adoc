@@ -25,7 +25,9 @@ Los sistemas AFF basados en NVMe son una plataforma robusta de escalado horizont
 
 Las configuraciones FAS All-Flash dan soporte a una amplia gama de cargas de trabajo, especialmente VDI y bases de datos que requieren un alto rendimiento, una baja latencia y fiabilidad.
 
-https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Lea las especificaciones técnicas de AFF A-Series"^] y.. https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Lea las especificaciones técnicas de la serie C de AFF"^].
+* https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Lea las especificaciones técnicas De A-Series de AFF"^]
+* https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf["Lea las especificaciones técnicas de C-Series de AFF"^]
+
 
 
 
@@ -33,7 +35,15 @@ https://www.netapp.com/pdf.html?item=/media/7828-DS-3582-AFF-A-Series.pdf["Lea l
 
 La cabina SAN All-Flash (ASA) de NetApp facilita una experiencia SAN simplificada y dedicada que ofrece disponibilidad continua de datos para bases de datos de misión crítica para la empresa y otras cargas de trabajo SAN mediante el protocolo iSCSI o la certificación FCP.
 
-https://www.netapp.com/pdf.html?item=/media/19466-SB-4081.pdf["Lea las especificaciones técnicas de ASA"^]
+.Sistemas ASA r2
+Los nuevos sistemas NetApp ASA R2 (ASA A1K, ASA A70 y ASA A90) ofrecen una solución de hardware y software unificada que crea una experiencia simplificada específica de las necesidades de clientes exclusivos de SAN.
+
+En un sistema ASA R2, se han optimizado el software ONTAP y System Manager para proporcionar compatibilidad con las funciones SAN esenciales mientras se elimina la visibilidad de las características y funciones no compatibles con los entornos SAN.
+
+* https://www.netapp.com/data-storage/all-flash-san-storage-array/["Lea las especificaciones técnicas de ASA"^]
+* Obtenga más información acerca de link:https://docs.netapp.com/us-en/asa-r2/learn-more/hardware-comparison.html["Nuevos sistemas R2 de ASA en comparación con los sistemas ASA"^]
+* Vea todas las limitaciones y compatibilidad de la configuración de los sistemas ASA y ASA R2 en https://hwu.netapp.com/["NetApp Hardware Universe"^]
+
 
 
 
@@ -53,7 +63,7 @@ Los sistemas de almacenamiento de hardware de ONTAP configurados con la funciona
 
 A diferencia de las soluciones de replicación de datos convencionales, MetroCluster funciona sin problemas con el entorno del host para ofrecer disponibilidad de datos continua y eliminar, al mismo tiempo, la necesidad de crear y mantener scripts complejos de conmutación al nodo de respaldo.
 
-https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["Más información acerca de MetroCluster"^]
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["Obtenga más información acerca de MetroCluster"^]
 
 
 
@@ -61,13 +71,10 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf["Más información 
 
 El software para la gestión de datos ONTAP es el software de almacenamiento en clúster que activa los sistemas de hardware ONTAP. Con un espacio de nombres global que admite hasta 24 nodos de hardware de todos los tipos, el software ONTAP admite almacenamiento unificado (bloque y archivo), lo que permite la consolidación significativa de cargas de trabajo que se pueden gestionar mediante la interfaz gráfica de usuario de ONTAP System Manager.
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Lea las especificaciones técnicas de ONTAP"^].
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf["Lea las especificaciones técnicas del software ONTAP"^]
 
-
-
-== Si quiere más información
-
-* https://docs.netapp.com/us-en/ontap-systems/index.html["Documentos de AFF y FAS"^]
+.Si quiere más información
+* https://docs.netapp.com/us-en/ontap-systems/index.html["Documentos de los sistemas de hardware de ONTAP"^]
 * https://docs.netapp.com/us-en/ontap-metrocluster/index.html["Documentos de MetroCluster"^]
 * https://docs.netapp.com/us-en/ontap/index.html["Documentos de ONTAP"^]
 
